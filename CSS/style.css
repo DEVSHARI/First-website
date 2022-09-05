@@ -1,4 +1,8 @@
-style{
-    height: 1px;
-    color: aqua;
+h1{
+    color: rgb(213, 18, 18);
+    font-size: medium;
+}
+
+li:hover{
+    color: brown;
 }
